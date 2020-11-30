@@ -1,0 +1,10 @@
+C:\Users\ekkel\source\repos\Quick sort-dom 2\Quick sort-dom 2\obj\Debug\Quick_sort_dom_2.Form1.resources
+C:\Users\ekkel\source\repos\Quick sort-dom 2\Quick sort-dom 2\obj\Debug\Quick_sort_dom_2.Properties.Resources.resources
+C:\Users\ekkel\source\repos\Quick sort-dom 2\Quick sort-dom 2\obj\Debug\Quick sort-dom 2.csproj.GenerateResource.cache
+C:\Users\ekkel\source\repos\Quick sort-dom 2\Quick sort-dom 2\obj\Debug\Quick sort-dom 2.csproj.CoreCompileInputs.cache
+C:\Users\ekkel\source\repos\Quick sort-dom 2\Quick sort-dom 2\bin\Debug\Quick sort-dom 2.exe.config
+C:\Users\ekkel\source\repos\Quick sort-dom 2\Quick sort-dom 2\bin\Debug\Quick sort-dom 2.exe
+C:\Users\ekkel\source\repos\Quick sort-dom 2\Quick sort-dom 2\bin\Debug\Quick sort-dom 2.pdb
+C:\Users\ekkel\source\repos\Quick sort-dom 2\Quick sort-dom 2\obj\Debug\Quick sort-dom 2.exe
+C:\Users\ekkel\source\repos\Quick sort-dom 2\Quick sort-dom 2\obj\Debug\Quick sort-dom 2.pdb
+C:\Users\ekkel\source\repos\Quick sort-dom 2\Quick sort-dom 2\obj\Debug\Quick sort-dom 2.csprojAssemblyReference.cache
